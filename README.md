@@ -1,4 +1,4 @@
-# v1.3
+
 """
 Timmy's Concept Scorer - v1.3  "CALM EDITION"
 
